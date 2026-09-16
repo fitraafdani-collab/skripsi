@@ -9,10 +9,10 @@ void setup() {
   lcd.backlight();    // Nyalakan lampu backlight
 
   lcd.setCursor(0, 0);
-  lcd.print("2110443010");
+  lcd.print("Hello");
 
   lcd.setCursor(0, 1);
-  lcd.print("RIMA TSAMRATUL AINI");
+  lcd.print("FITRA BERLIANA");
 }
 
 void loop() {
